@@ -1,0 +1,45 @@
+.head {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Container {
+    /* border: 3px solid black; */
+    width: 90%;
+    max-width: 1200px; 
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    padding:0;
+    /* gap: 20px;  */
+    /* padding: 20px;  */
+}
+
+.box {
+    border: 2px solid black; 
+    /* padding: 20px; */
+    text-align: center;
+    width:31%;
+    margin:0;
+}
+
+img {
+    /* border: 2px solid blue;  */
+    max-width: 100%; 
+    height: auto; 
+}
+
+.Container div {
+    border: 2px solid black; 
+    padding: 10px;
+    font-size: 22px; 
+}
+.joke-image{
+    height: 80%;
+}
+.p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
